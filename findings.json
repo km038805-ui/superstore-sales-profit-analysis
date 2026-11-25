@@ -1,0 +1,55 @@
+{
+  "raw_rows": 10800,
+  "cleaned_rows": 10001,
+  "duplicate_row_ids_removed": 799,
+  "missing_postal_codes_marked_unknown": 18,
+  "date_range": [
+    "2015-01-03",
+    "2018-12-30"
+  ],
+  "total_sales_usd": 2297200.86,
+  "total_profit_usd": 286397.02,
+  "overall_profit_margin_pct": 12.47,
+  "total_orders": 5015,
+  "sales_by_category": {
+    "Furniture": 741999.8,
+    "Office Supplies": 719047.03,
+    "Technology": 836154.03
+  },
+  "profit_by_category": {
+    "Furniture": 18451.27,
+    "Office Supplies": 122490.8,
+    "Technology": 145454.95
+  },
+  "sales_by_region": {
+    "Central": 501239.89,
+    "East": 678781.24,
+    "South": 391721.9,
+    "West": 725457.82
+  },
+  "profit_by_region": {
+    "Central": 39706.36,
+    "East": 91522.78,
+    "South": 46749.43,
+    "West": 108418.45
+  },
+  "sales_by_year": {
+    "2015.0": 484247.5,
+    "2016.0": 470532.51,
+    "2017.0": 609205.6,
+    "2018.0": 733215.26
+  },
+  "loss_making_orders_pct": 18.71,
+  "loss_making_rows": 1871,
+  "worst_subcategory_by_profit": {
+    "Tables": -17725.48,
+    "Bookcases": -3472.56,
+    "Supplies": -1189.1
+  },
+  "best_subcategory_by_profit": {
+    "Copiers": 55617.82,
+    "Phones": 44515.73,
+    "Accessories": 41936.64
+  },
+  "avg_discount_pct": 15.62
+}
